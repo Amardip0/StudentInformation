@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navy Palette -->
+    <color name="navy">#0F2027</color>
+    <color name="navy_dark">#0A192F</color>
+    <color name="navy_primary">#0F2027</color>
+    <color name="navy_light">#1E293B</color>
+
+    <!-- Teal Palette -->
+    <color name="teal">#008080</color>
+    <color name="teal_primary">#008080</color>
+    <color name="teal_dark">#005B5B</color>
+    <color name="teal_light">#26A69A</color>
+
+    <!-- Ice Mint Palette -->
+    <color name="ice_mint">#E6FFFA</color>
+    <color name="ice_mint_card">#F0FDFA</color>
+    <color name="ice_mint_border">#CCFBF1</color>
+    <color name="ice_mint_dark">#B2F5EA</color>
+
+    <!-- UI Backgrounds, Accents and Text -->
+    <color name="blue">#008080</color>
+    <color name="background">#F4F7FB</color>
+    <color name="bg_main">#F4F7FB</color>
+    <color name="card_border">#E2E8F0</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="muted">#64748B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red_delete">#DC2626</color>
+    <color name="red_delete_light">#FEE2E2</color>
+</resources>
