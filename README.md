@@ -1,6 +1,6 @@
-# Practical 7 — Student Information Application
+# — Student Information Application
 
-Android application built for CS7035 Practical 7 from the provided workbook.
+Android application built for student information management.
 
 ## Features
 - Student form: Name, 15-digit Enrolment No., Date of Birth, 10-digit Contact No., Course and Semester.
